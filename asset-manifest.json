@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/restaurant-flavoury/static/css/main.b258c314.css",
+    "main.js": "/restaurant-flavoury/static/js/main.620d71f5.js",
+    "static/media/interior.jpg": "/restaurant-flavoury/static/media/interior.8fb1724556158c4b5864.jpg",
+    "static/media/front.png": "/restaurant-flavoury/static/media/front.00faf4b16b13ff548596.png",
+    "static/media/table.png": "/restaurant-flavoury/static/media/table.ac518d69004c0bc72958.png",
+    "static/media/about.jpg": "/restaurant-flavoury/static/media/about.ddecce56d2bce747cc6a.jpg",
+    "static/media/event.jpg": "/restaurant-flavoury/static/media/event.113ddd675de94e41616a.jpg",
+    "static/media/tacos.jpeg": "/restaurant-flavoury/static/media/tacos.f7a9dcd09f9f8c24451f.jpeg",
+    "static/media/biriyani.jpeg": "/restaurant-flavoury/static/media/biriyani.7a9de6b23d8b3882f0b9.jpeg",
+    "static/media/fruit.jpeg": "/restaurant-flavoury/static/media/fruit.82980b12f0908aeb02e2.jpeg",
+    "static/media/pimarg.jpeg": "/restaurant-flavoury/static/media/pimarg.ece1ab397c7fcfbcbf53.jpeg",
+    "static/media/wings.jpeg": "/restaurant-flavoury/static/media/wings.9d0eb28bc40ee0c3cc5f.jpeg",
+    "static/media/tikka.jpeg": "/restaurant-flavoury/static/media/tikka.d772913e6e483ca78351.jpeg",
+    "static/media/caprese.jpeg": "/restaurant-flavoury/static/media/caprese.6a6af357abb06039e55a.jpeg",
+    "static/media/ribs.jpeg": "/restaurant-flavoury/static/media/ribs.dfb7a193d97926a057e1.jpeg",
+    "static/media/tandoori.jpeg": "/restaurant-flavoury/static/media/tandoori.ef98a8ea7c57304885c5.jpeg",
+    "static/media/burger.jpeg": "/restaurant-flavoury/static/media/burger.6d50fa631b225aa5d855.jpeg",
+    "index.html": "/restaurant-flavoury/index.html",
+    "main.b258c314.css.map": "/restaurant-flavoury/static/css/main.b258c314.css.map",
+    "main.620d71f5.js.map": "/restaurant-flavoury/static/js/main.620d71f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b258c314.css",
+    "static/js/main.620d71f5.js"
+  ]
+}
